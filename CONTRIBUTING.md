@@ -37,6 +37,7 @@ This project and everyone participating in it is governed by the [Digital Catapu
 
 If chat is more your speed, you can join the {PROJECT_NAME} Slack team:
 
+<!-- Do we want to set up a Slack space per each OSS project? -->
 * [Join the Slack Team](https://{PROJECT_NAME}-slack.com/)
     * Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
     * Use the `#{PROJECT_NAME}` channel for general questions or discussion about {PROJECT_NAME}
@@ -49,6 +50,7 @@ If chat is more your speed, you can join the {PROJECT_NAME} Slack team:
 
 ### Design Decisions
 
+<!-- How these decision are made? Can the contributors influence these decisions? -->
 When we make a significant decision in how we maintain the project and what we can or cannot support, we will document it in the [{PROJECT_NAME}/design-decisions repository](https://github.com/{PROJECT_NAME}/design-decisions). If you have a question around how we do things, check to see if it is documented there.
 
 ## How Can I Contribute?
@@ -115,7 +117,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * **List some other text editors or applications where this enhancement exists.**
 * **Specify which version of {PROJECT_NAME} you're using.** You can get the exact version from the version attribute within package.json.
 * **What's the name and version of the OS you've deployed {PROJECT_NAME} to**?
-
+<!-- As per above  re Design Decisions, I reckon we need to explain a bit how we triage and decide about these suggestions. I reckon if somebody contributes would like to see their suggestions somehow fairly treated? Is there any lightweight way to deal with this? -->
 
 ### Your First Code Contribution
 
