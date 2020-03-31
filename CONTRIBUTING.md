@@ -12,7 +12,6 @@ The following is a set of guidelines for contributing to {PROJECT_NAME} and its 
 
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [{PROJECT_NAME}](#{PROJECT_NAME})
-  * [{PROJECT_NAME} Design Decisions](#design-decisions)
   * [{PROJECT_NAME} Architecture](#architecture-decisions)
 
 [How Can I Contribute?](#how-can-i-contribute)
@@ -23,8 +22,6 @@ The following is a set of guidelines for contributing to {PROJECT_NAME} and its 
 
 [Styleguides](#styleguides)
   * [Git Commit Messages](#git-commit-messages)
-  * [JavaScript Styleguide](#javascript-styleguide)
-  * [Documentation Styleguide](#documentation-styleguide)
 
 [Additional Notes](#additional-notes)
   * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
@@ -32,6 +29,9 @@ The following is a set of guidelines for contributing to {PROJECT_NAME} and its 
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the [Digital Catapult Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [{PROJECT_NAME}@github.com](mailto:{PROJECT_NAME}@github.com).
+
+## FAQs
+We don't have any frequently asked questions yet.
 
 ## I don't want to read this whole thing I just have a question!!!
 
@@ -46,10 +46,6 @@ If chat is more your speed, you can join the {PROJECT_NAME} Slack team:
 ### {PROJECT_NAME}
 
 {PROJECT_NAME} is a small open source project &mdash; [{PROJECT_NAME}](https://github.com/{PROJECT_NAME}). When you initially consider contributing to {PROJECT_NAME}, this section should help you with doing so.
-
-### Design Decisions
-
-When we make a significant decision in how we maintain the project and what we can or cannot support, we will document it in the [{PROJECT_NAME}/design-decisions repository](https://github.com/{PROJECT_NAME}/design-decisions). If you have a question around how we do things, check to see if it is documented there.
 
 ## How Can I Contribute?
 
@@ -76,7 +72,7 @@ Explain the problem and include additional details to help maintainers reproduce
 * **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 * **Explain which behavior you expected to see instead and why.**
-* **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem. If you use the keyboard while following the steps, **record the GIF with the [Keybinding Resolver](https://github.com/{PROJECT_NAME}/keybinding-resolver) shown**. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
+* **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem. If you use the keyboard while following the steps, **record the GIF with the [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/Xaviju/byzanzUI) on Linux.
 * **If you're reporting that {PROJECT_NAME} crashed**, include a crash report with a stack trace from the operating system. On macOS, the crash report will be available in `Console.app` under "Diagnostic and usage information" > "User diagnostic reports". Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
 * **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
 
@@ -167,41 +163,6 @@ While the prerequisites above must be satisfied prior to having your pull reques
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
-
-### JavaScript Styleguide
-
-All JavaScript must adhere to [JavaScript Standard Style](https://standardjs.com/).
-
-* Prefer the object spread operator (`{...anotherObj}`) to `Object.assign()`
-* Inline `export`s with expressions whenever possible
-  ```js
-  // Use this:
-  export default class ClassName {
-
-  }
-
-  // Instead of:
-  class ClassName {
-
-  }
-  export default ClassName
-  ```
-* Place requires in the following order:
-    * Built in Node Modules (such as `path`)
-    * Local Modules (using relative paths)
-* Place class properties in the following order:
-    * Class methods and properties (methods starting with `static`)
-    * Instance methods and properties
-* Avoid platform-dependent code
-
-### Documentation Styleguide
-
-* Use [{PROJECT_NAME}Doc](https://github.com/{PROJECT_NAME}/{PROJECT_NAME}doc).
-* Use [Markdown](https://daringfireball.net/projects/markdown).
-* Reference methods and classes in markdown with the custom `{}` notation:
-    * Reference classes with `{ClassName}`
-    * Reference instance methods with `{ClassName::methodName}`
-    * Reference class methods with `{ClassName.methodName}`
 
 ## Additional Notes
 
