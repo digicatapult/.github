@@ -35,12 +35,6 @@ We don't have any frequently asked questions yet.
 
 ## I don't want to read this whole thing I just have a question!!!
 
-If chat is more your speed, you can join the {PROJECT_NAME} Slack team:
-
-* [Join the Slack Team](https://{PROJECT_NAME}-slack.com/)
-    * Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
-    * Use the `#{PROJECT_NAME}` channel for general questions or discussion about {PROJECT_NAME}
-
 ## What should I know before I get started?
 
 ### {PROJECT_NAME}
