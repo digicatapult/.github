@@ -199,7 +199,6 @@ Please open an issue on `{PROJECT_NAME}/{PROJECT_NAME_REPO}` if you have suggest
 | `api` | [search][search-{PROJECT_NAME}-repo-label-api] | [search][search-{PROJECT_NAME}-org-label-api] | Related to {PROJECT_NAME}'s public APIs. |
 | `uncaught-exception` | [search][search-{PROJECT_NAME}-repo-label-uncaught-exception] | [search][search-{PROJECT_NAME}-org-label-uncaught-exception] | Issues about uncaught exceptions |
 | `crash` | [search][search-{PROJECT_NAME}-repo-label-crash] | [search][search-{PROJECT_NAME}-org-label-crash] | Reports of {PROJECT_NAME} completely crashing. |
-| `auto-indent` | [search][search-{PROJECT_NAME}-repo-label-auto-indent] | [search][search-{PROJECT_NAME}-org-label-auto-indent] | Related to auto-indenting text. |
 | `git` | [search][search-{PROJECT_NAME}-repo-label-git] | [search][search-{PROJECT_NAME}-org-label-git] | Related to Git functionality (e.g. problems with gitignore files or with showing the correct file status). |
 
 #### `{PROJECT_NAME}/{PROJECT_NAME_REPO}` Topic Categories
@@ -207,8 +206,8 @@ Please open an issue on `{PROJECT_NAME}/{PROJECT_NAME_REPO}` if you have suggest
 | Label name | `{PROJECT_NAME}/{PROJECT_NAME_REPO}` :mag_right: | `{PROJECT_NAME}`‑org :mag_right: | Description |
 | --- | --- | --- | --- |
 | `build-error` | [search][search-{PROJECT_NAME}-repo-label-build-error] | [search][search-{PROJECT_NAME}-org-label-build-error] | Related to problems with building {PROJECT_NAME}. |
-| `error-from-open` | [search][search-{PROJECT_NAME}-repo-label-error-from-open] | [search][search-{PROJECT_NAME}-org-label-error-from-open] | Related to errors thrown when opening files. |
-| `deprecation-help` | [search][search-{PROJECT_NAME}-repo-label-deprecation-help] | [search][search-{PROJECT_NAME}-org-label-deprecation-help] | Issues for helping package authors remove usage of deprecated APIs in packages. |
+| `start-error` | [search][search-{PROJECT_NAME}-repo-label-start-error] | [search][search-{PROJECT_NAME}-org-label-start-error] | Related to problems with starting {PROJECT_NAME}. |
+| `runtime-error` | [search][search-{PROJECT_NAME}-repo-label-runtime-error] | [search][search-{PROJECT_NAME}-org-label-runtime-error] | Related to problems whilst running {PROJECT_NAME}. |
 
 #### Pull Request Labels
 
