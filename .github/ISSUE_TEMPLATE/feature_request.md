@@ -6,9 +6,7 @@ about: Suggest an idea for this project
 
 <!--
 
-Have you read Atom's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/{PROJECT_NAME}/.github/blob/master/CODE_OF_CONDUCT.md
-
-Do you want to ask a question? Are you looking for support? The Atom message board is the best place for getting support: https://discuss.atom.io
+Have you read {PROJECT_NAME}'s Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/{PROJECT_NAME}/.github/blob/master/CODE_OF_CONDUCT.md
 
 ---
 Also note that the Digital Catapult team has finite resources so it's unlikely that we'll work on feature requests. If we're interested in a particular feature however, we'll follow up and ask you to submit an RFC to talk about it in more detail.
