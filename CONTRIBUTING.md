@@ -178,16 +178,12 @@ Please open an issue on `{PROJECT_NAME}/{PROJECT_NAME_REPO}` if you have suggest
 | `bug` | [search][search-{PROJECT_NAME}-repo-label-bug] | [search][search-{PROJECT_NAME}-org-label-bug] | Confirmed bugs or reports that are very likely to be bugs. |
 | `question` | [search][search-{PROJECT_NAME}-repo-label-question] | [search][search-{PROJECT_NAME}-org-label-question] | Questions more than bug reports or feature requests (e.g. how do I do X). |
 | `feedback` | [search][search-{PROJECT_NAME}-repo-label-feedback] | [search][search-{PROJECT_NAME}-org-label-feedback] | General feedback more than bug reports or feature requests. |
-| `help-wanted` | [search][search-{PROJECT_NAME}-repo-label-help-wanted] | [search][search-{PROJECT_NAME}-org-label-help-wanted] | The {PROJECT_NAME} core team would appreciate help from the community in resolving these issues. |
-| `beginner` | [search][search-{PROJECT_NAME}-repo-label-beginner] | [search][search-{PROJECT_NAME}-org-label-beginner] | Less complex issues which would be good first issues to work on for users who want to contribute to {PROJECT_NAME}. |
 | `more-information-needed` | [search][search-{PROJECT_NAME}-repo-label-more-information-needed] | [search][search-{PROJECT_NAME}-org-label-more-information-needed] | More information needs to be collected about these problems or feature requests (e.g. steps to reproduce). |
 | `needs-reproduction` | [search][search-{PROJECT_NAME}-repo-label-needs-reproduction] | [search][search-{PROJECT_NAME}-org-label-needs-reproduction] | Likely bugs, but haven't been reliably reproduced. |
 | `blocked` | [search][search-{PROJECT_NAME}-repo-label-blocked] | [search][search-{PROJECT_NAME}-org-label-blocked] | Issues blocked on other issues. |
 | `duplicate` | [search][search-{PROJECT_NAME}-repo-label-duplicate] | [search][search-{PROJECT_NAME}-org-label-duplicate] | Issues which are duplicates of other issues, i.e. they have been reported before. |
 | `wontfix` | [search][search-{PROJECT_NAME}-repo-label-wontfix] | [search][search-{PROJECT_NAME}-org-label-wontfix] | The {PROJECT_NAME} core team has decided not to fix these issues for now, either because they're working as intended or for some other reason. |
 | `invalid` | [search][search-{PROJECT_NAME}-repo-label-invalid] | [search][search-{PROJECT_NAME}-org-label-invalid] | Issues which aren't valid (e.g. user errors). |
-| `package-idea` | [search][search-{PROJECT_NAME}-repo-label-package-idea] | [search][search-{PROJECT_NAME}-org-label-package-idea] | Feature request which might be good candidates for new packages, instead of extending {PROJECT_NAME} or core {PROJECT_NAME} packages. |
-| `wrong-repo` | [search][search-{PROJECT_NAME}-repo-label-wrong-repo] | [search][search-{PROJECT_NAME}-org-label-wrong-repo] | Issues reported on the wrong repository (e.g. a bug related to the [Settings View package](https://github.com/{PROJECT_NAME}/settings-view) was reported on [{PROJECT_NAME} core](https://github.com/{PROJECT_NAME}/{PROJECT_NAME})). |
 
 #### Topic Categories
 
@@ -201,24 +197,17 @@ Please open an issue on `{PROJECT_NAME}/{PROJECT_NAME_REPO}` if you have suggest
 | `security` | [search][search-{PROJECT_NAME}-repo-label-security] | [search][search-{PROJECT_NAME}-org-label-security] | Related to security. |
 | `ui` | [search][search-{PROJECT_NAME}-repo-label-ui] | [search][search-{PROJECT_NAME}-org-label-ui] | Related to visual design. |
 | `api` | [search][search-{PROJECT_NAME}-repo-label-api] | [search][search-{PROJECT_NAME}-org-label-api] | Related to {PROJECT_NAME}'s public APIs. |
-| `uncaught-exception` | [search][search-{PROJECT_NAME}-repo-label-uncaught-exception] | [search][search-{PROJECT_NAME}-org-label-uncaught-exception] | Issues about uncaught exceptions, normally created from the [Notifications package](https://github.com/{PROJECT_NAME}/notifications). |
+| `uncaught-exception` | [search][search-{PROJECT_NAME}-repo-label-uncaught-exception] | [search][search-{PROJECT_NAME}-org-label-uncaught-exception] | Issues about uncaught exceptions |
 | `crash` | [search][search-{PROJECT_NAME}-repo-label-crash] | [search][search-{PROJECT_NAME}-org-label-crash] | Reports of {PROJECT_NAME} completely crashing. |
 | `auto-indent` | [search][search-{PROJECT_NAME}-repo-label-auto-indent] | [search][search-{PROJECT_NAME}-org-label-auto-indent] | Related to auto-indenting text. |
-| `encoding` | [search][search-{PROJECT_NAME}-repo-label-encoding] | [search][search-{PROJECT_NAME}-org-label-encoding] | Related to character encoding. |
-| `network` | [search][search-{PROJECT_NAME}-repo-label-network] | [search][search-{PROJECT_NAME}-org-label-network] | Related to network problems or working with remote files (e.g. on network drives). |
 | `git` | [search][search-{PROJECT_NAME}-repo-label-git] | [search][search-{PROJECT_NAME}-org-label-git] | Related to Git functionality (e.g. problems with gitignore files or with showing the correct file status). |
 
 #### `{PROJECT_NAME}/{PROJECT_NAME_REPO}` Topic Categories
 
 | Label name | `{PROJECT_NAME}/{PROJECT_NAME_REPO}` :mag_right: | `{PROJECT_NAME}`‑org :mag_right: | Description |
 | --- | --- | --- | --- |
-| `editor-rendering` | [search][search-{PROJECT_NAME}-repo-label-editor-rendering] | [search][search-{PROJECT_NAME}-org-label-editor-rendering] | Related to language-independent aspects of rendering text (e.g. scrolling, soft wrap, and font rendering). |
-| `build-error` | [search][search-{PROJECT_NAME}-repo-label-build-error] | [search][search-{PROJECT_NAME}-org-label-build-error] | Related to problems with building {PROJECT_NAME} from source. |
-| `error-from-pathwatcher` | [search][search-{PROJECT_NAME}-repo-label-error-from-pathwatcher] | [search][search-{PROJECT_NAME}-org-label-error-from-pathwatcher] | Related to errors thrown by the [pathwatcher library](https://github.com/{PROJECT_NAME}/node-pathwatcher). |
-| `error-from-save` | [search][search-{PROJECT_NAME}-repo-label-error-from-save] | [search][search-{PROJECT_NAME}-org-label-error-from-save] | Related to errors thrown when saving files. |
+| `build-error` | [search][search-{PROJECT_NAME}-repo-label-build-error] | [search][search-{PROJECT_NAME}-org-label-build-error] | Related to problems with building {PROJECT_NAME}. |
 | `error-from-open` | [search][search-{PROJECT_NAME}-repo-label-error-from-open] | [search][search-{PROJECT_NAME}-org-label-error-from-open] | Related to errors thrown when opening files. |
-| `installer` | [search][search-{PROJECT_NAME}-repo-label-installer] | [search][search-{PROJECT_NAME}-org-label-installer] | Related to the {PROJECT_NAME} installers for different OSes. |
-| `auto-updater` | [search][search-{PROJECT_NAME}-repo-label-auto-updater] | [search][search-{PROJECT_NAME}-org-label-auto-updater] | Related to the auto-updater for different OSes. |
 | `deprecation-help` | [search][search-{PROJECT_NAME}-repo-label-deprecation-help] | [search][search-{PROJECT_NAME}-org-label-deprecation-help] | Issues for helping package authors remove usage of deprecated APIs in packages. |
 
 #### Pull Request Labels
