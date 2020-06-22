@@ -187,40 +187,40 @@ Please open an issue on `{PROJECT_MODULE_NAME}` if you have suggestions for new 
 | `needs-reproduction` | [search][search-{PROJECT_MODULE_NAME}-label-needs-reproduction] | [search][search-{PROJECT_NAME}-label-needs-reproduction] | Likely bugs, but haven't been reliably reproduced. |
 | `blocked` | [search][search-{PROJECT_MODULE_NAME}-label-blocked] | [search][search-{PROJECT_NAME}-label-blocked] | Issues blocked on other issues. |
 | `duplicate` | [search][search-{PROJECT_MODULE_NAME}-label-duplicate] | [search][search-{PROJECT_NAME}-label-duplicate] | Issues which are duplicates of other issues, i.e. they have been reported before. |
-| `wontfix` | [search][search-{PROJECT_MODULE_NAME}-label-wontfix] | [search][search-{PROJECT_NAME}-label-wontfix] | The WASP Client core team has decided not to fix these issues for now, either because they're working as intended or for some other reason. |
+| `wontfix` | [search][search-{PROJECT_MODULE_NAME}-label-wontfix] | [search][search-{PROJECT_NAME}-label-wontfix] | The {PROJECT_MODULE_NAME} core team has decided not to fix these issues for now, either because they're working as intended or for some other reason. |
 | `invalid` | [search][search-{PROJECT_MODULE_NAME}-label-invalid] | [search][search-{PROJECT_NAME}-label-invalid] | Issues which aren't valid (e.g. user errors). |
 
 #### Topic Categories
 
 | Label name | `{PROJECT_MODULE_NAME}` :mag_right: | `{PROJECT_NAME}` :mag_right: | Description |
 | --- | --- | --- | --- |
-| `windows` | [search][search-{PROJECT_MODULE_NAME}-label-windows] | [search][search-{PROJECT_NAME}-label-windows] | Related to WASP Client running on Windows. |
-| `linux` | [search][search-{PROJECT_MODULE_NAME}-label-linux] | [search][search-{PROJECT_NAME}-label-linux] | Related to WASP Client running on Linux. |
-| `mac` | [search][search-{PROJECT_MODULE_NAME}-label-mac] | [search][search-{PROJECT_NAME}-label-mac] | Related to WASP Client running on macOS. |
+| `windows` | [search][search-{PROJECT_MODULE_NAME}-label-windows] | [search][search-{PROJECT_NAME}-label-windows] | Related to {PROJECT_MODULE_NAME} running on Windows. |
+| `linux` | [search][search-{PROJECT_MODULE_NAME}-label-linux] | [search][search-{PROJECT_NAME}-label-linux] | Related to {PROJECT_MODULE_NAME} running on Linux. |
+| `mac` | [search][search-{PROJECT_MODULE_NAME}-label-mac] | [search][search-{PROJECT_NAME}-label-mac] | Related to {PROJECT_MODULE_NAME} running on macOS. |
 | `documentation` | [search][search-{PROJECT_MODULE_NAME}-label-documentation] | [search][search-{PROJECT_NAME}-label-documentation] | Related to any type of documentation |
 | `performance` | [search][search-{PROJECT_MODULE_NAME}-label-performance] | [search][search-{PROJECT_NAME}-label-performance] | Related to performance. |
 | `security` | [search][search-{PROJECT_MODULE_NAME}-label-security] | [search][search-{PROJECT_NAME}-label-security] | Related to security. |
 | `ui` | [search][search-{PROJECT_MODULE_NAME}-label-ui] | [search][search-{PROJECT_NAME}-label-ui] | Related to visual design. |
-| `api` | [search][search-{PROJECT_MODULE_NAME}-label-api] | [search][search-{PROJECT_NAME}-label-api] | Related to WASP Client's public APIs. |
+| `api` | [search][search-{PROJECT_MODULE_NAME}-label-api] | [search][search-{PROJECT_NAME}-label-api] | Related to {PROJECT_MODULE_NAME}'s public APIs. |
 | `uncaught-exception` | [search][search-{PROJECT_MODULE_NAME}-label-uncaught-exception] | [search][search-{PROJECT_NAME}-label-uncaught-exception] | Issues about uncaught exceptions |
-| `crash` | [search][search-{PROJECT_MODULE_NAME}-label-crash] | [search][search-{PROJECT_NAME}-label-crash] | Reports of WASP Client completely crashing. |
+| `crash` | [search][search-{PROJECT_MODULE_NAME}-label-crash] | [search][search-{PROJECT_NAME}-label-crash] | Reports of {PROJECT_MODULE_NAME} completely crashing. |
 | `git` | [search][search-{PROJECT_MODULE_NAME}-label-git] | [search][search-{PROJECT_NAME}-label-git] | Related to Git functionality (e.g. problems with gitignore files or with showing the correct file status). |
 
 #### `{PROJECT_MODULE_NAME}` Topic Categories
 
 | Label name | `{PROJECT_MODULE_NAME}` :mag_right: | `PROJECT_NAME` :mag_right: | Description |
 | --- | --- | --- | --- |
-| `build-error` | [search][search-{PROJECT_MODULE_NAME}-label-build-error] | [search][search-{PROJECT_NAME}-label-build-error] | Related to problems with building WASP Client. |
-| `start-error` | [search][search-{PROJECT_MODULE_NAME}-label-start-error] | [search][search-{PROJECT_NAME}-label-start-error] | Related to problems with starting WASP Client. |
-| `runtime-error` | [search][search-{PROJECT_MODULE_NAME}-label-runtime-error] | [search][search-{PROJECT_NAME}-label-runtime-error] | Related to problems whilst running WASP Client. |
+| `build-error` | [search][search-{PROJECT_MODULE_NAME}-label-build-error] | [search][search-{PROJECT_NAME}-label-build-error] | Related to problems with building {PROJECT_MODULE_NAME}. |
+| `start-error` | [search][search-{PROJECT_MODULE_NAME}-label-start-error] | [search][search-{PROJECT_NAME}-label-start-error] | Related to problems with starting {PROJECT_MODULE_NAME}. |
+| `runtime-error` | [search][search-{PROJECT_MODULE_NAME}-label-runtime-error] | [search][search-{PROJECT_NAME}-label-runtime-error] | Related to problems whilst running {PROJECT_MODULE_NAME}. |
 
 #### Pull Request Labels
 
 | Label name | `PROJECT_MODULE_NAME` :mag_right: | `PROJECT_NAME` :mag_right: | Description
 | --- | --- | --- | --- |
 | `work-in-progress` | [search][search-{PROJECT_MODULE_NAME}-label-work-in-progress] | [search][search-{PROJECT_NAME}-label-work-in-progress] | Pull requests which are still being worked on, more changes will follow. |
-| `needs-review` | [search][search-{PROJECT_MODULE_NAME}-label-needs-review] | [search][search-{PROJECT_NAME}-label-needs-review] | Pull requests which need code review, and approval from maintainers or WASP Client core team. |
-| `under-review` | [search][search-{PROJECT_MODULE_NAME}-label-under-review] | [search][search-{PROJECT_NAME}-label-under-review] | Pull requests being reviewed by maintainers or WASP Client core team. |
+| `needs-review` | [search][search-{PROJECT_MODULE_NAME}-label-needs-review] | [search][search-{PROJECT_NAME}-label-needs-review] | Pull requests which need code review, and approval from maintainers or {PROJECT_MODULE_NAME} core team. |
+| `under-review` | [search][search-{PROJECT_MODULE_NAME}-label-under-review] | [search][search-{PROJECT_NAME}-label-under-review] | Pull requests being reviewed by maintainers or {PROJECT_MODULE_NAME} core team. |
 | `requires-changes` | [search][search-{PROJECT_MODULE_NAME}-label-requires-changes] | [search][search-{PROJECT_NAME}-label-requires-changes] | Pull requests which need to be updated based on review comments and then reviewed again. |
 | `needs-testing` | [search][search-{PROJECT_MODULE_NAME}-label-needs-testing] | [search][search-{PROJECT_NAME}-label-needs-testing] | Pull requests which need manual testing. |
 
