@@ -29,7 +29,7 @@ The following is a set of guidelines for contributing to {PROJECT_NAME} and its 
 
 ## Code of Conduct
 
-This project and all those participating in it are governed by the [Digital Catapult's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [{PROJECT_NAME}supprt@digicatapult.org.uk](mailto:{PROJECT_NAME}support@digicatapult.org.uk).
+This project and all those participating in it are governed by the [Digital Catapult's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [{PROJECT_NAME}support@digicatapult.org.uk](mailto:{PROJECT_NAME}support@digicatapult.org.uk).
 
 ## FAQs
 We don't have any frequently asked questions yet.
