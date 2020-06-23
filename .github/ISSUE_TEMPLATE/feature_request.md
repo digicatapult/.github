@@ -1,15 +1,14 @@
 ---
-name: Feature request
+name: Feature request  
 about: Suggest an idea for this project
-
 ---
 
 <!--
 
-Have you read {PROJECT_NAME}'s Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/{PROJECT_NAME}/.github/blob/master/CODE_OF_CONDUCT.md
+Have you read {PROJECT_NAME}'s Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/digicatapult/{PROJECT_MODULE_NAME}/.github/blob/master/CODE_OF_CONDUCT.md
 
 ---
-Also note that the Digital Catapult team has finite resources so it's unlikely that we'll work on feature requests. If we're interested in a particular feature however, we'll follow up and ask you to submit an RFC to talk about it in more detail.
+Also note that the Digital Catapult team (https://www.digicatapult.org.uk/{PROJECT_NAME}) has finite resources so it's unlikely that we'll work on feature requests. If we're interested in a particular feature however, we'll follow up and ask you to submit an RFC to talk about it in more detail.
 
 -->
 
@@ -23,7 +22,7 @@ Also note that the Digital Catapult team has finite resources so it's unlikely t
 
 ## Describe alternatives you've considered
 
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why {PROJECT_NAME}'s existing customizability isn't suitable for this feature. -->
+<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why {PROJECT_NAME}'s existing customisability isn't suitable for this feature. -->
 
 ## Additional context
 
