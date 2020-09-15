@@ -32,3 +32,5 @@ As per the open-sourcing policy all repositories must have specified owners (pro
   }
 }
 ```
+
+When adding a new repository the pull-request description should contain a brief description of the repository being added along with a reference to the IP analysis that was conducted that includes that repository.
