@@ -25,11 +25,11 @@ Have you read {PROJECT_NAME}'s Code of Conduct? By filing an Issue, you are expe
 2. <!-- Second Step -->
 3. <!-- and so on… -->
 
-**Expected behavior:**
+**Expected behaviour:**
 
 <!-- What you expect to happen -->
 
-**Actual behavior:**
+**Actual behaviour:**
 
 <!-- What actually happens -->
 

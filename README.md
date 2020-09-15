@@ -1,6 +1,6 @@
 # open-sourcing
 
-This repository records who the designated owners are for open-source repostories at Digital Catapult and contains material for creating/editing open-source projects.
+This repository records who the designated owners are for open-source repositories at Digital Catapult and contains material for creating/editing open-source projects.
 
 ## License
 
@@ -19,7 +19,7 @@ Issue and pull request templates are included in the [resources/.github](resourc
 
 ## Updating Repository ownership
 
-As per the open-sourcing policy all repositories must have specified owners (product and code) and these must be registered by a pull-request process to this repository. This pull-request should modify the [owners.json](owners.json) file adding/modifying an entry with a repository name as it's key (exclusing the org). For example:
+As per the open-sourcing policy all repositories must have specified owners (product and code) and these must be registered by a pull-request process to this repository. This pull-request should modify the [owners.json](owners.json) file adding/modifying an entry with a repository name as it's key (excluding the org). For example:
 
 ```json
 {
