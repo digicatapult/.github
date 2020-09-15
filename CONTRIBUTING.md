@@ -10,11 +10,6 @@ The following is a set of guidelines for contributing to {PROJECT_NAME} and its 
 
 [FAQs](#FAQs)
 
-[What should I know before I get started?](#what-should-i-know-before-i-get-started)
-  * [{PROJECT_MODULE_NAME} Documentation](#{PROJECT_MODULE_NAME}-documentation)
-  * [{PROJECT_MODULE_NAME}](#{PROJECT_MODULE_NAME})
-  * [{PROJECT_MODULE_NAME} Architecture](#architecture-decisions)
-
 [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
   * [Suggesting Enhancements](#suggesting-enhancements)
@@ -33,18 +28,6 @@ This project and all those participating in it are governed by the [Digital Cata
 
 ## FAQs
 We don't have any frequently asked questions yet.
-
-## I don't want to read this whole thing I just have a question!!!
-
-## What should I know before I get started?
-
-### {PROJECT_NAME}
-
-[{PROJECT_NAME} Project Documentation](https://github.com/digicatapult/{PROJECT_NAME}-documentation)
-
-{PROJECT_MODULE_NAME} is a small open source project &mdash; [{PROJECT_MODULE_NAME}](https://github.com/digicatapult/{PROJECT_MODULE_NAME}). When you initially consider contributing to {PROJECT_MODULE_NAME}, this section should help you with doing so.
-
-### Architecture Decisions
 
 ## How Can I Contribute?
 
@@ -67,7 +50,7 @@ Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/).
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
-* **Describe the exact steps which reproduce the problem** in as many details as possible. 
+* **Describe the exact steps which reproduce the problem** in as many details as possible.
 * **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 * **Explain which behavior you expected to see instead and why.**
