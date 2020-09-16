@@ -10,8 +10,8 @@ The Apache v2.0 [license](resources/LICENSE) is included here for reference. To 
 
 This repository contains two files [CONTRIBUTING.md](resources/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](resources/CODE_OF_CONDUCT.md) that **MUST** be included in the root of any repository that is being open-sourced. The following substitutions should be made to the markdown:
 
-1. `{PROJECT_NAME}` should be replaced by the name of the project that includes that repository as an element, for example `WASP`.
-2. `{PROJECT_MODULE_NAME}` should be replaced by the repository name
+1. `{project_name}` should be replaced by the name of the project that includes that repository as an element, for example `WASP`.
+2. `{project_module_name}` should be replaced by the repository name
 
 ## Issue templates
 
@@ -25,10 +25,7 @@ As per the open-sourcing policy all repositories must have specified owners (pro
 {
   "example-repository": {
     "product-owner": "octocat",
-    "code-owners": [
-      "example-user-account",
-      "octocat"
-    ]
+    "code-owners": ["example-user-account", "octocat"]
   }
 }
 ```
