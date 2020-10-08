@@ -1,6 +1,6 @@
 # open-sourcing
 
-This repository records who the designated owners are for open-source repositories at Digital Catapult and contains material for creating/editing open-source projects.
+This repository contains material for creating/editing open-source projects.
 
 ## License
 
