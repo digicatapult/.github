@@ -16,18 +16,3 @@ This repository contains two files [CONTRIBUTING.md](resources/CONTRIBUTING.md) 
 ## Issue templates
 
 Issue and pull request templates are included in the [resources/.github](resources/.github) directory of this repository. It is advised that these are included in any repositories to be open-sourced but it is not required. If they are not used further modification to the contributor guidelines will be required to fix missing links.
-
-## Updating Repository ownership
-
-As per the open-sourcing policy all repositories must have specified owners (product and code) and these must be registered by a pull-request process to this repository. This pull-request should modify the [owners.json](owners.json) file adding/modifying an entry with a repository name as it's key (excluding the org). For example:
-
-```json
-{
-  "example-repository": {
-    "product-owner": "octocat",
-    "code-owners": ["example-user-account", "octocat"]
-  }
-}
-```
-
-When adding a new repository the pull-request description should contain a brief description of the repository being added along with a reference to the IP analysis that was conducted that includes that repository.
