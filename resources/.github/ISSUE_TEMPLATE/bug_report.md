@@ -13,7 +13,7 @@ Have you read {project_name}'s Code of Conduct? By filing an Issue, you are expe
 
 - [ ] Put an X between the brackets on this line if you have done all of the following:
   - Checked the FAQs for common solutions: <https://github.com/digicatapult/{project_module_name}/blob/main/CONTRIBUTING.md/#FAQs>
-  - Checked that your issue isn't already filed: <https://github.com/issues?utf8=✓&q=is%3Aissue+user%3A{project_module_name}>
+  - Checked that your issue isn't already filed: <https://github.com/digicatapult/{project_module_name}/issues?utf8=✓&q=is%3Aissue+user%3A>
 
 ### Description
 
