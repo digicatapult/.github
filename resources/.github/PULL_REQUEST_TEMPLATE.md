@@ -19,6 +19,10 @@ Please delete options that are irrelevant.
 - [ ] Code style update (formatting, local variables)
 - [ ] Breaking Change (fix or feature that would cause existing functionality to change)
 
+## Linked tickets
+
+<!-- If this PR is linked to a JIRA ticket, please provide the ticket URL here. -->
+
 ## High level description
 
 <!-- One paragraph explanation of the feature. -->
