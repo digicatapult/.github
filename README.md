@@ -10,9 +10,13 @@ The Apache v2.0 [license](resources/LICENSE) is included here for reference. To 
 
 This repository contains two files [CONTRIBUTING.md](resources/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](resources/CODE_OF_CONDUCT.md) that **MUST** be included in the root of any repository that is being open-sourced. The following substitutions should be made to the markdown:
 
-1. `{project_name}` should be replaced by the name of the project that includes that repository as an element, for example `WASP`.
+1. `{project_name}` should be replaced by the name of the project that includes that repository as an element, for example `SQNC`.
 2. `{project_module_name}` should be replaced by the repository name
 
 ## Issue templates
 
 Issue and pull request templates are included in the [resources/.github](resources/.github) directory of this repository. It is advised that these are included in any repositories to be open-sourced but it is not required. If they are not used further modification to the contributor guidelines will be required to fix missing links.
+
+## Miscellaneous
+
+We strongly recommend you enable [Renovate bot](https://docs.renovatebot.com/) for managing and upgrading dependencies in your project. This will help keep your project up-to-date and secure.  We have a centrally managed [config repository](https://github.com/digicatapult/renovate-config) that will automatically enable updates for several package managers. We have included a minimal [renovate.json](resources/renovate.json) file that can be used to enable Renovate bot in your repository.  You can edit this file to enable additional package mangers and customise as per the documentation.

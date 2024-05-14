@@ -1,6 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+ticket: Ticket number for this bug (if applicable)
 ---
 
 <!--
