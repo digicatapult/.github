@@ -1,7 +1,7 @@
 # Pull Request
 
 ## Checklist
-- [ ] Have you read {project_name}'s Code of Conduct? https://github.com/digicatapult/{project_module_name}/.github/blob/main/CODE_OF_CONDUCT.md
+- [ ] Have you read {project_name}'s Code of Conduct? https://github.com/digicatapult/{project_module_name}//blob/main/CODE_OF_CONDUCT.md
 - [ ] I have performed a self-review of my own code.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.

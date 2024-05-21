@@ -6,7 +6,7 @@ ticket: Ticket number for this bug (if applicable)
 
 <!--
 
-Have you read {project_name}'s Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/digicatapult/{project_module_name}/.github/blob/main/CODE_OF_CONDUCT.md
+Have you read {project_name}'s Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/digicatapult/{project_module_name}//blob/main/CODE_OF_CONDUCT.md
 
 -->
 
