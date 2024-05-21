@@ -1,6 +1,6 @@
 name: Bug report
 description: Create a report to help us improve
-assignee: ["digicatapult/software-engineering"]
+assignees: ["digicatapult/software-engineering"]
 labels: ["bug"]
 body:
   - type: textarea
@@ -13,13 +13,17 @@ body:
   - type: checkboxes
     id: checked-faq
     attributes:
-      label: I have checked the FAQ for common solutions
+      label: Is there anything in the FAQ for this?
+      options:
+      - label: I have searched the FAQ for a solution
     validations:
       required: true
   - type: checkboxes
     id: checked-issues
     attributes:
-      label: I have checked this issue hasn't already been reported
+      label: Has this already been reported
+      options:
+      - label: I have checked this issue hasn't already been reported
     validations:
       required: true
   - type: textarea
