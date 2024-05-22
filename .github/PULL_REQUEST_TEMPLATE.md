@@ -1,7 +1,7 @@
 # Pull Request
 
 ## Checklist
-- [ ] Have you read Digital Catapult's [Code of Conduct](/../CODE_OF_CONDUCT.md)?
+- [ ] Have you read Digital Catapult's [Code of Conduct](https://github.com/digicatapult/.github/blob/main/CODE_OF_CONDUCT.md)?
 - [ ] I have performed a self-review of my own code.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
