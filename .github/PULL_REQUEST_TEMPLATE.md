@@ -1,7 +1,7 @@
 # Pull Request
 
 ## Checklist
-- [ ] Have you read {project_name}'s Code of Conduct? https://github.com/digicatapult/{project_module_name}/blob/main/CODE_OF_CONDUCT.md
+- [ ] Have you read Digital Catapult's [Code of Conduct](/../CODE_OF_CONDUCT.md)?
 - [ ] I have performed a self-review of my own code.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
@@ -21,7 +21,7 @@ Please delete options that are irrelevant.
 
 ## Linked tickets
 
-<!-- If this PR is linked to a JIRA ticket, please provide the ticket URL here. -->
+<!-- If this PR is linked to a JIRA ticket or Github Issue, please provide the ticket URL here. -->
 
 ## High level description
 
@@ -34,7 +34,7 @@ Please delete options that are irrelevant.
 
 ## Describe alternatives you've considered
 
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why {project_name}'s existing customisability isn't suitable for this feature. -->
+<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why the existing customisability isn't suitable for this feature. -->
 
 ## Operational impact
 
