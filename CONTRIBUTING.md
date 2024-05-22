@@ -1,8 +1,8 @@
-# Contributing to the project
+# Contributing
 
 Firstly, we would like to thank you for taking the time to contribute!
 
-The following is a set of guidelines for contributing to {project_name} and its packages, which are hosted on the [digicatapult](https://github.com/digicatapult) organisation on GitHub. These are mostly guidelines, not rules. Use your best judgement, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to this project and its packages, which are hosted on the [digicatapult](https://github.com/digicatapult) organisation on GitHub. These are mostly guidelines, not rules. Use your best judgement, and feel free to propose changes to this document in a pull request.
 
 #### Table Of Contents
 
@@ -37,7 +37,7 @@ We don't have any frequently asked questions yet.
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for the project. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behaviour :computer: :computer:, and find related reports :mag_right:.
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behaviour :computer: :computer:, and find related reports :mag_right:.
 
 Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](./.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps us resolve issues faster.
 
@@ -59,24 +59,24 @@ Explain the problem and include additional details to help maintainers reproduce
 - **Describe the behaviour you observed after following the steps** and point out what exactly is the problem with that behaviour.
 - **Explain which behaviour you expected to see instead and why.**
 - **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem. If you use the keyboard while following the steps, \*\*record the GIF with the [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/Xaviju/byzanzUI) on Linux.
-- **If you're reporting that the project crashed**, include a crash report with a stack trace from the operating system. On macOS, the crash report will be available in `Console.app` under "Diagnostic and usage information" > "User diagnostic reports". Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
+- **If you're reporting that the application crashed**, include a crash report with a stack trace from the operating system. On macOS, the crash report will be available in `Console.app` under "Diagnostic and usage information" > "User diagnostic reports". Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
 - **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
 
 Provide more context by answering these questions:
 
-- **Did the problem start happening recently** (e.g. after updating to a new version of the project) or was this always a problem?
-- If the problem started happening recently, **can you reproduce the problem in an older version of the project?** What's the most recent version in which the problem doesn't happen? You can checkout older versions of the project from [the releases page](../releases).
+- **Did the problem start happening recently** (e.g. after updating to a new version) or was this always a problem?
+- If the problem started happening recently, **can you reproduce the problem in an older version of the application?** What's the most recent version in which the problem doesn't happen? You can checkout older versions of the application from [the releases page](../releases).
 - **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 Include details about your configuration and environment:
 
-- **Which version of the project are you using?** You can get the exact version from the version attribute within package.json.
-- **What's the name and version of the OS you've deployed the project to**?
-- **Are you running the project in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
+- **Which version of the application are you using?** You can get the exact version from the version attribute within package.json.
+- **What's the name and version of the OS you've deployed to**?
+- **Are you running in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for the project, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
+This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
 Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in [the template](./.github/ISSUE_TEMPLATE/feature_request.md), including the steps that you imagine you would take if the feature you're requesting existed.
 
@@ -92,11 +92,11 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 - **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 - **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 - **Describe the current behaviour** and **explain which behaviour you expected to see instead** and why.
-- **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of the project which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-- **Explain why this enhancement would be useful** to most the project users.
+- **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part at which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
+- **Explain why this enhancement would be useful** to most users.
 - **List some other text editors or applications where this enhancement exists.**
-- **Specify which version of the project you're using.** You can get the exact version from the version attribute within package.json.
-- **What's the name and version of the OS you've deployed the project to**?
+- **Specify which version of the application you're using.** You can get the exact version from the version attribute within package.json or the docker image tag.
+- **What's the name and version of the OS you've deployed to**?
 
 ### Pull Requests
 
@@ -104,7 +104,7 @@ The process described here has several goals:
 
 - Maintain the project's quality
 - Fix problems that are important to users
-- Enable a sustainable system for the project's maintainers to review contributions
+- Enable a sustainable system for the maintainers to review contributions
 
 Please follow these steps to have your contribution considered by the maintainers:
 

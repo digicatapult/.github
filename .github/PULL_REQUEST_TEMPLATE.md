@@ -34,7 +34,7 @@ Please delete options that are irrelevant.
 
 ## Describe alternatives you've considered
 
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why {project_name}'s existing customisability isn't suitable for this feature. -->
+<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why the existing customisability isn't suitable for this feature. -->
 
 ## Operational impact
 
