@@ -27,7 +27,7 @@ The following is a set of guidelines for contributing to this project and its pa
 
 ## Code of Conduct
 
-This project and all those participating in it are governed by the [Digital Catapult's Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [opensource@digicatapult.org.uk](mailto:opensource@digicatapult.org.uk).
+This project and all those participating in it are governed by the [Digital Catapult's Code of Conduct](https://github.com/digicatapult/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [opensource@digicatapult.org.uk](mailto:opensource@digicatapult.org.uk).
 
 ## FAQs
 
@@ -45,11 +45,11 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 #### Before Submitting A Bug Report
 
-- **Perform a [cursory search](../issues)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- **Perform a cursory search in the issues page** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue on that repository and provide the following information by filling in [the template](./.github/ISSUE_TEMPLATE/bug_report.md).
+Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue on that repository and provide the following information by filling in the template.
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -65,7 +65,7 @@ Explain the problem and include additional details to help maintainers reproduce
 Provide more context by answering these questions:
 
 - **Did the problem start happening recently** (e.g. after updating to a new version) or was this always a problem?
-- If the problem started happening recently, **can you reproduce the problem in an older version of the application?** What's the most recent version in which the problem doesn't happen? You can checkout older versions of the application from [the releases page](../releases).
+- If the problem started happening recently, **can you reproduce the problem in an older version of the application?** What's the most recent version in which the problem doesn't happen? You can checkout older versions of the application from the releases page.
 - **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 Include details about your configuration and environment:
@@ -82,7 +82,7 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before Submitting An Enhancement Suggestion
 
-- **Perform a [cursory search](../issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- **Perform a cursory search in the issues page** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
@@ -108,7 +108,7 @@ The process described here has several goals:
 
 Please follow these steps to have your contribution considered by the maintainers:
 
-1. Follow all instructions in [the template](.github/PULL_REQUEST_TEMPLATE.md)
+1. Follow all instructions in the Pull request template
 2. Follow the [styleguides](#styleguides)
 3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
