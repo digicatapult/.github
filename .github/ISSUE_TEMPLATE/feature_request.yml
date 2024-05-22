@@ -1,0 +1,49 @@
+name: Feature Request
+title: "[FEATURE] "
+assignees: ["digicatapult/software-engineering"]
+labels: ["feature"]
+description: Create a feature request to help us make this software better
+body:
+  - type: textarea
+    id: ticket-id
+    attributes:
+      label: Ticket ID
+      description:  Ticket ID number for this bug (if applicable)
+    validations:
+      required: false
+  - type: checkboxes
+    id: checked-issues
+    attributes:
+      label: Has this already been requested
+      options:
+      - label: I have checked this feature hasn't already been requested
+    validations:
+      required: true
+  - type: textarea
+    id: highlevel
+    attributes:
+      label: High level description of the feature
+      description: One paragraph explaining what the feature should do
+    validations:
+      required: true
+  - type: textarea
+    id: detailed
+    attributes:
+      label: A detailed description of how the feature should work
+      description: Tell us what this feature should do, and what expected inputs and outputs should be.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative methods considered?
+      description: Are there any alternative methods you have considered which to achieve this feature?
+    validations:
+      required: false
+  - type: textarea
+    id: impact
+    attributes:
+      label: Any operational considerations
+      description: Are there any operational considerations which should be taken into account when implementing this feature?
+    validations:
+      required: false
