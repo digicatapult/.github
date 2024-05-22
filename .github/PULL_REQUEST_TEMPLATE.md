@@ -21,7 +21,7 @@ Please delete options that are irrelevant.
 
 ## Linked tickets
 
-<!-- If this PR is linked to a JIRA ticket, please provide the ticket URL here. -->
+<!-- If this PR is linked to a JIRA ticket or Github Issue, please provide the ticket URL here. -->
 
 ## High level description
 
