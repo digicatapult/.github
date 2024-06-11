@@ -8,7 +8,7 @@ At Digital Catapult, we take the security of our systems and data seriously. We 
 
 To report a security vulnerability, please use the following contact method:
 
-**Email**: security@digitalcatapult.org
+**Email**: opensource@digitalcatapult.org.uk
 Using the following pgp key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -75,6 +75,6 @@ To encourage responsible disclosure, we will not take legal action against indiv
 
 If you have any questions or need further assistance, please contact us at:
 
-**Email**: opensource@digitalcatapult.org
+**Email**: opensource@digitalcatapult.org.uk
 
 Thank you for helping us keep Digital Catapult secure.
