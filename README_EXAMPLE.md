@@ -179,3 +179,9 @@ npx cypress run
 - [ ] database seeds if there are multiple then explain what is it for
 <!-- If we have methods for resetting the database, please cover them, it can also be a script -->
 - [ ] resetting the database e.g: any commands like `npm run db:reset`
+
+## Service Specifics
+<!-- anything service/framework specifics e.g:
+- if rust how to use specific pallets
+- typescript frameworks how to use/run/configure
+- any additional configuration
