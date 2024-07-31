@@ -2,7 +2,6 @@
 A little description of what it does 
 
 
-
 ## Setup/Configuration
 This section will cover prerequisites along with the versions for this service.
 <!-- a little summary of the bellow and or any specifics/unique -->
@@ -56,21 +55,21 @@ npm run build
 ### Development mode
 In order to run the service in development mode, please follow the instructions below.
 <!-- cover in detail what it takes to run this service locally including environment configuration -->
-- environmental variables that are required by the service
+- Environmental variables that are required by the service
 <!-- For example: create .env file and explain what variables are needed and where to retrieve the values, it can be a person or a tool
 Make sure that .env file contains the below variables:
 EXTERNAL_API_KEY=some-api-key
 LOCAL_USER=username
 -->
-- other operations required by the service to start in development mode
-- specifics like importing storybook components
-- if we have some seeds with regard to the development mode
+- Ither operations required by the service to start in development mode
+- Specifics like importing storybook components
+- If we have some seeds with regard to the development mode
 - If there are multiple scenarios. e.g. environmental persona and multi-persona, please cover both in separate paragraphs
 
 ## Environment variables
 This is the list of all environment variables
 <!-- A short description of environment variables, if there are any unique cases please cover and mention where to retrieve the values -->
-- table of environemnt variables as per the below example:
+- Table of environemnt variables as per the below example:
 <!-- 
 | variable              | required |      default      | description                                                                          |
 | :-------------------- | :------: | :---------------: | :----------------------------------------------------------------------------------- |
@@ -141,14 +140,18 @@ npx cypress run
 ## Database
 <!-- If there is no database, then please remove this section, otherwise please cover the below bullet points: -->
 <!-- In most cases we would use knex/PSQL -->
-- database migrations how to run and where they are stored
+- Database migrations how to run and where they are stored
 <!-- Seeding is a fairly new practise so not every service will have it, but if it does mentioned where seeds are located and what they are for e.g. populating query table -->
 - database seeds if there are multiple then explain what is it for
 <!-- If we have methods for resetting the database, please cover them, it can also be a script -->
-- resetting the database e.g: any commands like `npm run db:reset`
+- Resetting the database e.g: any commands like `npm run db:reset`
 
 ## Service Specifics
 In this section please cover all repository specifics such as `scripts` or API specifications
+
+- Any scripts that are relevant for setting up / configuration of the service
+- API specification, please refer to the examples below
+- Ither relevant unique configurations
 <!-- 
 ### Scripts
 If service uses scripts please cover in a detail here.
