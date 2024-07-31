@@ -150,7 +150,7 @@ In this section please cover all repository specifics such as `scripts` or API s
 
 - Any scripts that are relevant for setting up / configuration of the service
 - API specification, please refer to the examples below
-- Ither relevant unique configurations
+- Other relevant unique configurations
 <!-- 
 ### Scripts
 If service uses scripts please cover in a detail here.
