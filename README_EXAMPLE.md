@@ -70,7 +70,7 @@ LOCAL_USER=username
 This is the list of all environment variables
 <!-- A short description of environment variables, if there are any unique cases please cover and mention where to retrieve the values -->
 - Table of environemnt variables as per the below example:
-<!-- 
+
 | variable              | required |      default      | description                                                                          |
 | :-------------------- | :------: | :---------------: | :----------------------------------------------------------------------------------- |
 | EXTERNAL_API_KEY      |    Y     |         -         |  An API key of external service                                                      |
@@ -78,7 +78,6 @@ This is the list of all environment variables
 | PORT                  |    N     |       `80`        | Port on which the service will listen                                                |
 | API_DOCS_FILE_PATH    |    N     | `./api-docs.json` | Location of the api-docs file on the filesystem                                      |
 | API_PUBLIC_URL_PREFIX |    N     |        ``         | Public prefix to prepend for accessing api-docs                                      |
---> 
 
 ## Testing
 Please cover all test we are using for this repository. Each should have its own section.
