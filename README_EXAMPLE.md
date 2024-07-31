@@ -70,6 +70,8 @@ LOCAL_USER=username
 This is the list of all environment variables
 <!-- A short description of environment variables, if there are any unique cases please cover and mention where to retrieve the values -->
 - Table of environemnt variables as per the below example:
+- There are multiple tools for helping to automaticallt generate a markdown table [one of the tools](https://www.tablesgenerator.com/markdown_tables)
+
 
 | variable              | required |      default      | description                                                                          |
 | :-------------------- | :------: | :---------------: | :----------------------------------------------------------------------------------- |
