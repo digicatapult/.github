@@ -50,7 +50,7 @@ npm run build
 -->
 
 
-## Development mode
+### Development mode
 - <!-- In this paragraph please cover in detail what it takes to run this service locally -->
 - [ ] environment variables that are required by the service
 <!-- For example: create .env file and explain what variables are needed and where to retrieve the values, it can be a person or a tool
