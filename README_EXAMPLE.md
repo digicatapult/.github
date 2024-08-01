@@ -165,7 +165,7 @@ In order to form connection you would need to import DIDs that are saved in .env
 
 ### API specification
 If service exposes some endpoints please cover them in a bit more detail here.
-<!-- ### GET /members - The address parameter identifies the user running this process, and the alias representing a more friendly name version of this. The default value of the latter is null, and is optionally set.
+<!-- #### GET /members - The address parameter identifies the user running this process, and the alias representing a more friendly name version of this. The default value of the latter is null, and is optionally set.
 ```sh
 [
   {
