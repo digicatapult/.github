@@ -1,20 +1,27 @@
 # Name of the repository
 A little description of what it does 
 
+## Table of Contents
 
-## Setup/Configuration
+- [Setup](#setup)
+- [Getting Started](#getting-started)
+- [Development Mode/Local dev](#development-mode)
+- [Environment Variables](#environment-variables)
+- [Testing](#testing)
+- [Database](#database)
+- [Service Specifics](#service-specifics)
+
+## Setup
 This section will cover prerequisites along with the versions for this service.
 <!-- a little summary of the bellow and or any specifics/unique -->
 
 ### Prerequisites
 Ideally, a list of required tools and frameworks to run the service:
-- docker 19.03.0+
-- docker-compose v2.23.0+
 - npm 10.0.0+
 - node 20.0.0+
 <!-- please make sure that tools and framework versions are defined along with links to the installation -->
 
-### Getting started
+## Getting started
 This should be focused on what it takes to get the service up and running along with all dependencies and env configurations
 <!-- 
 - First, ensure you're running the correct version of npm, then install dependencies using:
@@ -52,7 +59,7 @@ npm run build
 -->
 
 
-### Development mode
+## Development mode
 In order to run the service in development mode, please follow the instructions below.
 <!-- cover in detail what it takes to run this service locally including environment configuration -->
 - Environmental variables that are required by the service
@@ -108,7 +115,7 @@ npm run test:integration
 ```
 
 ### E2E Testing
- If this repository has any E2E test suites, then please describe it using the same pattern as for unit/integration tests, otherwise remove this section.
+If this repository has any E2E test suites, then please describe it using the same pattern as for unit/integration tests, otherwise remove this section.
 
 ### UI Testing
 Most services will not have UI testing, so in that case please remove this paragraph.
