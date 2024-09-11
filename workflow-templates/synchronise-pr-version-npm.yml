@@ -9,7 +9,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  synchronise-trunk-version-npm:
+  synchronise-pr-version-npm:
     uses: digicatapult/shared-workflows/.github/workflows/synchronise-pr-version-npm.yml@main
     with:
       pr-number: ${{ github.event.pull_request.number }}
