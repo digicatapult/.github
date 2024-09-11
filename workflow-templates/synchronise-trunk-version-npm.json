@@ -1,0 +1,7 @@
+{
+  "name": "Synchronise all PR versions to trunk (npm)",
+  "description": "Synchronises the npm version in a package.json for all pull-requests on change to the default branch",
+  "iconName": "octicon hash",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["^package.json$"]
+}

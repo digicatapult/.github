@@ -1,0 +1,7 @@
+{
+  "name": "Synchronise Pull-Request Version (npm)",
+  "description": "Synchronises the npm version in a package.json against the trunk branch given a label applied to the pull-request",
+  "iconName": "octicon hash",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["^package.json$"]
+}
