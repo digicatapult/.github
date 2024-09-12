@@ -13,3 +13,6 @@ jobs:
     uses: digicatapult/shared-workflows/.github/workflows/synchronise-trunk-version-npm.yml@main
     with:
       trunk-branch: $default-branch
+    secrets:
+      bot-id: ${{ secrets.BOT_ID }}
+      bot-key: ${{ secrets.BOT_KEY }}
