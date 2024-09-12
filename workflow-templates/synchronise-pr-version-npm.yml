@@ -14,3 +14,6 @@ jobs:
     with:
       pr-number: ${{ github.event.pull_request.number }}
       trunk-branch: $default-branch
+    secrets:
+      bot-id: ${{ secrets.BOT_ID }}
+      bot-key: ${{ secrets.BOT_KEY }}
