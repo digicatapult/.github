@@ -14,6 +14,7 @@
 Please delete options that are irrelevant.
 
 - [ ] Bug Fix
+- [ ] Chore
 - [ ] Feature
 - [ ] Documentation Update
 - [ ] Code style update (formatting, local variables)
